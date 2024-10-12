@@ -1,5 +1,16 @@
-- Hi there 👋
+ Hi there 👋
+  ## 🌐 Socials:
+- [LinkedIn](https://www.linkedin.com/in/shahab-bozorgi/)
 
+## 💻 Tech Stack:
+- Python
+- Django
+- Mysql
+- Javascript
+  
+
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 <!---
 shahab-bozorgi/shahab-bozorgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
