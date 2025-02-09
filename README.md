@@ -7,7 +7,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px" title="Django"/>
-  <img src="https://static-00.iconduck.com/assets.00/django-rest-framework-icon-512x328-14frxhz4.png" width="40px" title="Django Rest Framework"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django-rest-framework-drf.svg" width="40px" title="Django Rest Framework"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" title="Docker"/>
