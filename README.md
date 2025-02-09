@@ -22,7 +22,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-bozorgi&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahab-bozorgi&show_icons=true&theme=dark)
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahab-bozorgi&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
 
 
 
