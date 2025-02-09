@@ -12,7 +12,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-bozorgi&layout=compact&theme=dark)
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahab-bozorgi&show_icons=true&theme=radical)
+
+
 
