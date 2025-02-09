@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" title="Express.js"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-bozorgi&layout=compact&theme=dark)
+
 
 ### 🔥 Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shahab-bozorgi&theme=dark)](https://git.io/streak-stats)
