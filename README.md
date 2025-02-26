@@ -1,6 +1,7 @@
  
 ### 🔗 Connect with me:
 <p align="left">
+ 
   <a href="https://www.linkedin.com/in/shahab-bozorgi/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" title="LinkedIn"/>
   </a>
