@@ -23,7 +23,7 @@
 
 
 
-### 🔥 Streak Stats:
+###  Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shahab-bozorgi&theme=dark)](https://git.io/streak-stats)
 
 
