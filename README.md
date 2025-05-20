@@ -5,7 +5,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" title="LinkedIn"/>
   </a>
 </p>
-
+ 
 ### 🛠 Language and tools :
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
